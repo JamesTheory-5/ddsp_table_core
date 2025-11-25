@@ -1,7 +1,5 @@
 # ddsp_table_core
-Below is the filled-out spec, followed by the full standalone `ddsp_table_core.py` module.
 
----
 
 MODULE NAME:
 **ddsp_table_core**
